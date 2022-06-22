@@ -1,0 +1,2 @@
+# zuridjangoCrud
+Tasks on django
